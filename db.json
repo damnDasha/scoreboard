@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Work from home",
+      "day": "June 21st at 7:00am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Client portal presentation",
+      "day": "June 24th at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Date Night",
+      "day": "June 26th at 7:30pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Grocery Store",
+      "day": "June 27th at 11:00am",
+      "reminder": false
+    },
+    {
+      "text": "test",
+      "day": "june 10",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
